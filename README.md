@@ -1,3 +1,4 @@
+<svg>
 <style>
     .list-container {
         display: flex;
@@ -22,7 +23,7 @@
     </ul>
     <img alt="roaming-the-space-gif" src="https://media3.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" width="300" height="225" style="margin-left: 50px"/>
 </div>
-  
+</svg>
 
 <!--
 **vlad-lis/vlad-lis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
