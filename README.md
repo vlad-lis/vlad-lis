@@ -1,10 +1,10 @@
-<h1 align="center">Hi there
-   <img alt="handwave" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width='30'" />
+<h1 align="center">
+   <img align="top" alt="highlight_gif" src="https://media1.giphy.com/media/DS89v1NqpzCqA/200w.webp?cid=ecf05e47l0jh2yc683fynb2uswl0r93piuuipt0nwlrazrck" width="50"/>
+   Hi there
+   <img align="top" alt="highlight_gif" src="https://media1.giphy.com/media/DS89v1NqpzCqA/200w.webp?cid=ecf05e47l0jh2yc683fynb2uswl0r93piuuipt0nwlrazrck" width="50"/>
    <br>
    <br>
-   <img align="center" alt="highlight_gif" src="https://media1.giphy.com/media/DS89v1NqpzCqA/200w.webp?cid=ecf05e47l0jh2yc683fynb2uswl0r93piuuipt0nwlrazrck" width="30"/>
    <i>Let's harness the world's data flow and put a nice front-end to it!</i>
-   <img align="center" alt="highlight_gif" src="https://media1.giphy.com/media/DS89v1NqpzCqA/200w.webp?cid=ecf05e47l0jh2yc683fynb2uswl0r93piuuipt0nwlrazrck" width="30"/>
 </h1>
 <div></div>
 
@@ -31,4 +31,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img alt="handwave" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width='30'" />
 -->
