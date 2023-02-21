@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" src="https://media3.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" width="300"/>
+
 <!--
 **vlad-lis/vlad-lis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
