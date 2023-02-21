@@ -19,7 +19,7 @@
    </p>
    <p>
       <img width="30" align="left" src="https://media2.giphy.com/media/33G90Z4cO8sRNW9Bfl/200w.webp?cid=ecf05e47yv02fo33ytyy9gfbk7p9hi5t6wr74sx1pav8eulu&rid=200w.webp&ct=g">
-      Ask me if I believe in love at first compile.<br>Sure, but test it before you commit!
+      Ask me if I believe in love at first compile.<br>Sure, but test it before you commit to it!
    </p>
    <p>
       <img width="30" align="left" src="https://media2.giphy.com/media/33G90Z4cO8sRNW9Bfl/200w.webp?cid=ecf05e47yv02fo33ytyy9gfbk7p9hi5t6wr74sx1pav8eulu&rid=200w.webp&ct=g">
