@@ -2,16 +2,13 @@
    <i>Let's harness the world's data flow and put a nice front-end to it!<i></h1>
 <div></div>
 
-<div style="display: flex">
 <img align="right" alt="roamingthespace_gif" src="https://media3.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" width="300" style="margin-left: 300px"/>
     
 <br/>
-<ul>
+<ul style:"max-width: 500px">
   <li>🔭 I'm currently learning / studying / honing data analytics, web development and programming in general 👨‍🎓</li>
   <li>I'm looking to collaborate on Python projects, Web applications, Machine learning or anything related to data  📙</li>
 </ul>
-
-</div>
   
 
 <!--
