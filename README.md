@@ -5,26 +5,21 @@
 
 <div></div>
     
-<div style="display: flex; width: 100%; color: white; justify-content: space-between;">
+<div class=list-container>
+    <style>
+        .list-container {
+            display: flex;
+            width: 100%;
+            color: white;
+            justify-content: space-between; 
+        }
+    </style>
     <ul>
         <li><p>🔭 I'm currently learning / studying / honing data analytics, web development and programming in general 👨‍🎓</p></li>
         <li><p>📙 I'm looking to collaborate on Python projects, Web applications, Machine learning or anything related to data</p></li>
     </ul>
     <img alt="roaming-the-space-gif" src="https://media3.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" width="300" height="225" style="margin-left: 50px"/>
 </div>
-
-
-  
-<style>
-    .list-container {
-        display: flex;
-        width: 100%;
-        color: white;
-        justify-content: space-between; 
-    }
-
-
-</style>
   
 
 <!--
