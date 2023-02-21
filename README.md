@@ -5,7 +5,7 @@
 
 <div></div>
     
-<div class=list-container>
+<div style="display: flex; width: 100%; color: white; justify-content: space-between;">
     <ul>
         <li><p>🔭 I'm currently learning / studying / honing data analytics, web development and programming in general 👨‍🎓</p></li>
         <li><p>📙 I'm looking to collaborate on Python projects, Web applications, Machine learning or anything related to data</p></li>
