@@ -1,5 +1,5 @@
 <div align="left">
-  <h1>Hello there <img alt="handwave" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width='40" /></h1>
+  <h1>Hello there <img alt="handwave" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width='40'" /></h1>
 </div>
 
 <img align="right" alt="roamingthespace_gif" src="https://media3.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" width="300"/>
