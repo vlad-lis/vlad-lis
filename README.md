@@ -1,6 +1,8 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hello there <img alt="handwave" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width='40' align="top" /></h1>
+</div>
 
-<img align="right" src="https://media3.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" width="300"/>
+<img align="right" alt="roamingthespace_gif" src="https://media3.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" width="300"/>
 
 <!--
 **vlad-lis/vlad-lis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
