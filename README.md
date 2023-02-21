@@ -10,10 +10,13 @@
 <img align="right" alt="roamingthespace_gif" src="https://media3.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" width="300"/>
     
 <div>
-   <ul>
-      <li>🔭 I'm currently learning / studying / honing data analytics, web development<br>and programming in general 👨‍🎓</li>
-      <li>📙 I'm looking to collaborate on Python projects, Web applications,<br>Machine learning or anythingd data related</li>
-   </ul>
+   <p>
+      <img width="30" align="left" src="https://media2.giphy.com/media/33G90Z4cO8sRNW9Bfl/200w.webp?cid=ecf05e47yv02fo33ytyy9gfbk7p9hi5t6wr74sx1pav8eulu&rid=200w.webp&ct=g"> I'm currently learning / studying / honing data analytics, web development<br>and programming in general
+   </p>
+   <p>
+      <img width="30" align="left" src="https://media2.giphy.com/media/33G90Z4cO8sRNW9Bfl/200w.webp?cid=ecf05e47yv02fo33ytyy9gfbk7p9hi5t6wr74sx1pav8eulu&rid=200w.webp&ct=g">
+      I'm looking to collaborate on Python projects, Web applications,<br>Machine learning or anythingd data related
+   </p>
 </div>
    
    
