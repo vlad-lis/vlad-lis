@@ -1,8 +1,8 @@
 <h1>Hi there <img alt="handwave" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width='40'" /> <br/><br/>
-   <i>Let's harness the world's data flow and put a nice front-end to it!<i></h1>
+   <i>Let's harness the world's data flow and put a nice front-end to it!</i></h1>
 <div></div>
 
-<img align="right" alt="roamingthespace_gif" src="https://media3.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" width="300" style="margin-left: 300px"/>
+<img align="right" alt="roamingthespace_gif" src="https://media3.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" width="300"/>
     
 <br/>
 <ul style:"max-width: 50px">
