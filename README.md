@@ -1,5 +1,5 @@
 <div align="left">
-  <h1>Hi there and welcome <img alt="handwave" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width='40'" /> <br/>
+  <h1>Hi there <img alt="handwave" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width='40'" /> <br/><br/>
    <i>Let's harness the world's data flow and put a nice front-end to it!<i></h1>
 </div>
 
