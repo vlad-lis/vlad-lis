@@ -1,3 +1,13 @@
+<style>
+    .list-container {
+        display: flex;
+        width: 100%;
+        color: white;
+        justify-content: space-between; 
+    }
+</style>
+
+
 <h1>Hi there <img alt="handwave" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width='40'" /> 
     <br/></br>
     <i>Let's harness the world's data flow and put a nice front-end to it!</i>
@@ -6,14 +16,6 @@
 <div></div>
     
 <div class=list-container>
-    <style>
-        .list-container {
-            display: flex;
-            width: 100%;
-            color: white;
-            justify-content: space-between; 
-        }
-    </style>
     <ul>
         <li><p>🔭 I'm currently learning / studying / honing data analytics, web development and programming in general 👨‍🎓</p></li>
         <li><p>📙 I'm looking to collaborate on Python projects, Web applications, Machine learning or anything related to data</p></li>
