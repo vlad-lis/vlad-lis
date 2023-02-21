@@ -5,7 +5,7 @@
    <br>
    <i>Let's harness the world's data flow and put a nice front-end to it!</i>
 </h1>
-<div></div>
+<br>
 
 <img align="right" alt="roamingthespace_gif" src="https://media3.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" width="300"/>
     
