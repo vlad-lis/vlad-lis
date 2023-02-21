@@ -3,7 +3,7 @@
 </div>
     
 <div>
-    <h2>asdasd</h2>
+    <h2>Let's harness the world's data flow and put a nice front-end to it!</h2>
 </div>
 
 <img align="right" alt="roamingthespace_gif" src="https://media3.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" width="300"/>
