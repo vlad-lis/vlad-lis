@@ -1,6 +1,6 @@
 <h1 align="center">
    <img align="top" alt="highlight_gif" src="https://media1.giphy.com/media/DS89v1NqpzCqA/200w.webp?cid=ecf05e47l0jh2yc683fynb2uswl0r93piuuipt0nwlrazrck" width="40"/>
-   Hi there
+   Hello there
    <img align="top" alt="highlight_gif" src="https://media1.giphy.com/media/DS89v1NqpzCqA/200w.webp?cid=ecf05e47l0jh2yc683fynb2uswl0r93piuuipt0nwlrazrck" width="40"/>
    <br>
    <i>Let's harness the world's data flow and put a nice front-end to it!</i>
