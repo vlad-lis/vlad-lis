@@ -33,7 +33,7 @@
 </div>
 
 
-## <img alt="toolsgif" src="https://media.giphy.com/media/qQmTFifHAlqr2cyGpF/giphy.gif" width='30' align="top" />Languages and tools:
+## <img alt="toolsgif" src="https://media.giphy.com/media/qQmTFifHAlqr2cyGpF/giphy.gif" width='30' align="top" />&ensp;&nbsp;Languages and tools:
 
    
 <!--
