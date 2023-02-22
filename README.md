@@ -46,7 +46,6 @@
 ![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=Figma)
 ![Tableau](https://img.shields.io/badge/Tableau-090909?style=for-the-badge&logo=Tableau)
 ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git)
-![Powershell](https://img.shields.io/badge/PowerShell-090909?style=for-the-badge&logo=PowerShell)
 ![Numpy](https://img.shields.io/badge/NumPy-090909?style=for-the-badge&logo=Numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-090909?style=for-the-badge&logo=Pandas)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-090909?style=for-the-badge&logo=scikit-learn)
