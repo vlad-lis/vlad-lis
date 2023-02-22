@@ -34,6 +34,21 @@
 
 
 ## <img alt="toolsgif" src="https://media.giphy.com/media/qQmTFifHAlqr2cyGpF/giphy.gif" width='30' align="top" />&ensp;&nbsp;Languages and tools:
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python)
+![JS](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![SQL](https://img.shields.io/badge/mysql-090909?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=CSS3)
+![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React)
+![Webpack](https://img.shields.io/badge/Webpack-090909?style=for-the-badge&logo=Webpack)
+![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=Figma)
+![Tableau](https://img.shields.io/badge/Tableau-090909?style=for-the-badge&logo=Tableau)
+![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git)
+![VSCode](https://img.shields.io/badge/VS_Code-090909?style=for-the-badge&logo=visual-studio-code)
+![Jupyter](https://img.shields.io/badge/Jupyter-090909?style=for-the-badge&logo=Jupyter)
+
+
+
 
    
 <!--
