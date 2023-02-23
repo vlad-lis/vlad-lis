@@ -34,7 +34,7 @@
 
 
 ## <img alt="toolsgif" src="https://media.giphy.com/media/qQmTFifHAlqr2cyGpF/giphy.gif" width='30' align="top" />&ensp;&nbsp;Languages and tools that I use and learn:
-![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python)
+![https://www.youtube.com/watch?v=dQw4w9WgXcQ)](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python)
 ![JS](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/mysql-090909?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5)
