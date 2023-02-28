@@ -41,15 +41,15 @@
 ![CSS](https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=CSS3)
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React)
 ![Webpack](https://img.shields.io/badge/Webpack-090909?style=for-the-badge&logo=Webpack)
-![Jupyter](https://img.shields.io/badge/Jupyter-090909?style=for-the-badge&logo=Jupyter)
+![NodeJS](https://img.shields.io/badge/node.js-090909?style=for-the-badge&logo=node.js)
 ![VSCode](https://img.shields.io/badge/VS_Code-090909?style=for-the-badge&logo=visual-studio-code)
+![Jupyter](https://img.shields.io/badge/Jupyter-090909?style=for-the-badge&logo=Jupyter)
 ![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=Figma)
 ![Tableau](https://img.shields.io/badge/Tableau-090909?style=for-the-badge&logo=Tableau)
 ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git)
 ![Numpy](https://img.shields.io/badge/NumPy-090909?style=for-the-badge&logo=Numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-090909?style=for-the-badge&logo=Pandas)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-090909?style=for-the-badge&logo=scikit-learn)
-![NodeJS](https://img.shields.io/badge/node.js-090909?style=for-the-badge&logo=node.js)
 
 
 
