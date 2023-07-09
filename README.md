@@ -53,6 +53,7 @@
 ![Numpy](https://img.shields.io/badge/NumPy-090909?style=for-the-badge&logo=Numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-090909?style=for-the-badge&logo=Pandas)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-090909?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-090909?style=for-the-badge&logo=TensorFlow)
 
 
 
