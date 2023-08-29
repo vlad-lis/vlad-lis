@@ -14,11 +14,11 @@
 <div>
    <p>
       <img width="30" align="left" src="https://media2.giphy.com/media/33G90Z4cO8sRNW9Bfl/200w.webp?cid=ecf05e47yv02fo33ytyy9gfbk7p9hi5t6wr74sx1pav8eulu&rid=200w.webp&ct=g"> 
-      I'm currently learning / studying / honing data analytics,<br>web development, and programming in general
+      I'm currently learning / studying / honing web development,<br>machine learning, and programming in general
    </p>
    <p>
       <img width="30" align="left" src="https://media2.giphy.com/media/33G90Z4cO8sRNW9Bfl/200w.webp?cid=ecf05e47yv02fo33ytyy9gfbk7p9hi5t6wr74sx1pav8eulu&rid=200w.webp&ct=g">
-      I'm looking to collaborate on Python projects, web applications,<br>machine learning or anything data related
+      I'm looking to collaborate on Python projects, Web applications,<br>machine learning or anything data related
    </p>
    <p>
       <img width="30" align="left" src="https://media2.giphy.com/media/33G90Z4cO8sRNW9Bfl/200w.webp?cid=ecf05e47yv02fo33ytyy9gfbk7p9hi5t6wr74sx1pav8eulu&rid=200w.webp&ct=g">
