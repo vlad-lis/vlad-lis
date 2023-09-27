@@ -5,7 +5,6 @@
    <br>
    <i>Let's harness the world's data flow and put a nice front-end to it</i>
    <br>
-   <br>
 </h1>
 
 
