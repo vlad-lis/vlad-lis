@@ -1,4 +1,4 @@
-\# <p align="center">
+<h1 align="center">
    <img align="top" alt="highlight_gif" src="https://media1.giphy.com/media/DS89v1NqpzCqA/200w.webp?cid=ecf05e47l0jh2yc683fynb2uswl0r93piuuipt0nwlrazrck" width="40"/>
    Hi there
    <img align="top" alt="highlight_gif" src="https://media1.giphy.com/media/DS89v1NqpzCqA/200w.webp?cid=ecf05e47l0jh2yc683fynb2uswl0r93piuuipt0nwlrazrck" width="40"/>
@@ -6,7 +6,7 @@
    <i>Let's harness the world's data flow and put a nice front-end to it</i>
    <br>
    <br>
-</p>
+</h1>
 
 
 <img align="right" alt="roamingthespace_gif" src="https://media3.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" width="300"/>
@@ -33,7 +33,7 @@
 </div>
 
 
-\## <img alt="toolsgif" src="https://media.giphy.com/media/qQmTFifHAlqr2cyGpF/giphy.gif" width='30' align="top" />&ensp;&nbsp;Languages and tools that I use and learn:
+## <img alt="toolsgif" src="https://media.giphy.com/media/qQmTFifHAlqr2cyGpF/giphy.gif" width='30' align="top" />&ensp;&nbsp;Languages and tools that I use and learn:
 ![https://www.youtube.com/watch?v=dQw4w9WgXcQ)](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python)
 ![JS](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/mysql-090909?style=for-the-badge&logo=mysql&logoColor=white)
