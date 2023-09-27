@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="color: black;">
    <img align="top" alt="highlight_gif" src="https://media1.giphy.com/media/DS89v1NqpzCqA/200w.webp?cid=ecf05e47l0jh2yc683fynb2uswl0r93piuuipt0nwlrazrck" width="40"/>
    <span style="color: black;">Hi there</span>
    <img align="top" alt="highlight_gif" src="https://media1.giphy.com/media/DS89v1NqpzCqA/200w.webp?cid=ecf05e47l0jh2yc683fynb2uswl0r93piuuipt0nwlrazrck" width="40"/>
