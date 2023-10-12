@@ -17,7 +17,7 @@
    </p>
    <p>
       <img width="30" align="left" src="https://media2.giphy.com/media/33G90Z4cO8sRNW9Bfl/200w.webp?cid=ecf05e47yv02fo33ytyy9gfbk7p9hi5t6wr74sx1pav8eulu&rid=200w.webp&ct=g">
-      I'm looking to collaborate on Python projects, Web applications,<br>machine learning or anything data related
+      I'm looking to collaborate on Web applications,<br>Python projects or anything data related
    </p>
    <p>
       <img width="30" align="left" src="https://media2.giphy.com/media/33G90Z4cO8sRNW9Bfl/200w.webp?cid=ecf05e47yv02fo33ytyy9gfbk7p9hi5t6wr74sx1pav8eulu&rid=200w.webp&ct=g">
@@ -33,8 +33,9 @@
 
 
 ## <img alt="toolsgif" src="https://media.giphy.com/media/qQmTFifHAlqr2cyGpF/giphy.gif" width='30' align="top" />&ensp;&nbsp;Languages and tools that I use and learn:
-![https://www.youtube.com/watch?v=dQw4w9WgXcQ)](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python)
 ![JS](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![TS](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript)
+![https://www.youtube.com/watch?v=dQw4w9WgXcQ)](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python)
 ![SQL](https://img.shields.io/badge/mysql-090909?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-090909?style=for-the-badge&logo=sqlite)
 ![HTML](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5)
