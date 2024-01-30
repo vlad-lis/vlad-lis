@@ -54,6 +54,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-090909?style=for-the-badge&logo=Pandas)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-090909?style=for-the-badge&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-090909?style=for-the-badge&logo=TensorFlow)
+![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker)
 
 
 
